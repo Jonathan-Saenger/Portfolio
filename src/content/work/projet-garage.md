@@ -1,10 +1,10 @@
 ---
-title: Markdown Mystery Tour
+title: Projet Garage
 publishDate: 2020-03-02 00:00:00
 img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: Index de l'application Garage Parrot
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Développement d'une application de gestion d'un garage
 tags:
   - Design
   - Dev

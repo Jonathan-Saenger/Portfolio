@@ -1,13 +1,12 @@
 ---
-title: Duvet Genius
-publishDate: 2020-03-04 00:00:00
-img: /assets/stock-3.jpg
-img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
+title: Post-partum
+publishDate: 2019-10-02 00:00:00
+img: /assets/stock-4.jpg
+img_alt: Index de l'application Post Partum
 description: |
-  We developed a virtual showcase for the softest bedding imaginable.
+  Développement d'une application de gestion d'un blog
 tags:
   - Design
-  - Dev
   - Branding
 ---
 
