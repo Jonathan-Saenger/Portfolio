@@ -6,7 +6,7 @@
     "dev": "astro dev",
     "build": "astro check && astro build",
     "preview": "serve dist/",
-    "start": "npm run build && npm run preview"
+    "start": "npm run build && serve dist/ --listen ${PORT}"
   },
   "dependencies": {
     "astro": "^4.8.6",
