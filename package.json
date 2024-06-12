@@ -4,14 +4,14 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "start": "astro dev",
     "build": "astro check && astro build",
-    "preview": "astro preview",
-    "astro": "astro"
+    "preview": "serve dist/",
+    "start": "npm run build && npm run preview"
   },
   "dependencies": {
     "astro": "^4.8.6",
     "@astrojs/check": "^0.7.0",
-    "typescript": "^5.4.5"
+    "typescript": "^5.4.5",
+    "serve": "^11.3.2"
   }
 }
